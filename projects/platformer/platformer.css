@@ -1,9 +1,10 @@
 body {
-  margin: 0px;
+  margin: 10px;
 }
 
 canvas {
-  background-color: lightgray;
+  background-color: purple;
+  color: purple;
 }
 
 img {
