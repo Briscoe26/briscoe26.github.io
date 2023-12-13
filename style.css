@@ -1,0 +1,74 @@
+h1 {color:Purple;
+    background-color: black;
+    padding: 15px;
+     font-family: Comic Sans MS;}
+     h3 {color: purple;
+         background-color: black;
+     padding: 15px;
+     font-family: Comic Sans MS;}
+     h2 {color: purple;
+     background-color: black;
+     padding: 15px;
+     font-family: Comic Sans MS;}
+     p {color: purple;
+     background-color: black;
+     padding: 15px;
+        font-family: Comic Sans MS;}
+        [Id=all-content] {
+            max-width: 800px;
+            margin: auto;
+        }
+        #all-contents {
+            max-width: 800px;
+            padding: 10px;
+        }
+        [class=sidebar] {
+            margin-right: 25px;
+            padding: 10px;
+        }
+        .sidebar {
+            margin-right: 25px;
+            padding: 10px
+        }
+     nav {
+        background: rgb (121, 25,189);
+        margin: 0 auto;
+        display: flex;
+        padding: 10px;
+        border-radius: 30 px;
+     }
+     #FrogThor {
+        max-width: 20pc;
+        border-radius: 30px;
+     }
+     
+     content h1 {
+    color: purple;
+}
+
+ /* portfolio styles */
+ .content h1 {
+    color: purple;
+    background-color:white ;
+}
+
+#portfolio {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#portfolio li {
+    background: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+#portfolio li:hover {
+    background: #eee;
+}
+
+#portfolio a {
+    text-decoration: none;
+    color: #454545;
+}

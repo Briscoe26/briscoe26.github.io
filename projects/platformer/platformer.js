@@ -47,7 +47,7 @@ $(function () {
 
      createPlatform(500,140,10,1000)
      createPlatform(10,0,10,1000)
-     createPlatform(100,700,20,10)
+     createPlatform(10,700,200,10)
      createPlatform(200,640,20,10)
      createPlatform(320,560,20,10)
      createPlatform(489,450,20,10)
@@ -74,6 +74,7 @@ $(function () {
        createCannon("top",600,770)
        createCannon("bottom",950,660)
        createCannon("",400,850)
+       createCannon("right",795,.0001,1500)
        createCollectable("database",1300,5,1,1)
      
     // Create collectables
